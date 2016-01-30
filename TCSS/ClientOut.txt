@@ -1,0 +1,14 @@
+Statistics on our clients:
+
+  Total number of clients:          6
+           Average weight:      163.0
+           Highest weight:      243.0
+            Lowest weight:      104.0
+
+ID.                   NAME     WEIGHT 
+ 0.              Ziggy Zip      148.0 
+ 1.         Sally Solaride      206.0 
+ 2.                Lea Dea      152.0 
+ 3.               Sam Spam      243.0 
+ 4.                Mia Dea      104.0 
+ 5.                Tom Tom      125.0 

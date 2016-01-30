@@ -1,0 +1,12 @@
+The input file "IllCryInstead.txt" has the following qualities: 
+
+
+A total number of: 
+
+       Lines -    35
+       Words -   214
+The word THE -     5
+ The word OF -     0
+ The word TO -     7
+The word AND -     4
+  The word A -     1
